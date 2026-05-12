@@ -1,2 +1,2 @@
-# eventsapp
-My Repo
+# eventsappstart
+This is a simple events app
